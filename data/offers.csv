@@ -1,0 +1,5 @@
+offer_id,offer_type,discount_value,cost_estimate
+1,10% Discount,0.1,1.0
+2,20% Discount,0.2,2.0
+3,BOGO,0.0,2.0
+4,Free Add-on,0.0,1.5
