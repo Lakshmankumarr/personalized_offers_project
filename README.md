@@ -1,4 +1,4 @@
-<!-- # Personalized Customer Offer Recommendation System
+# Personalized Customer Offer Recommendation System
 
 ## Overview
 This project simulates a data-driven personalized offer recommendation system, combining data engineering, machine learning, uplift modeling, and ROI simulation to optimize customer engagement and incremental revenue.
@@ -46,4 +46,4 @@ If you want, I can **write a fully finished GitHub-ready version** with:
 
 So you can literally **upload everything to GitHub in one go**.  
 
-Do you want me to do that? -->
+Do you want me to do that?
